@@ -2,6 +2,7 @@
 
 A web app for a computer shop selling enthusiast-grade hardware
 
+http://blitz-computers.vercel.app/
 
 
 # Getting Started with Create React App
